@@ -2,7 +2,7 @@ This program has 3 functions which are calculator, encoder and decoder.
 
 1.Calculator
 
--It is regular calculator with 24 operations.
+-It is a regular calculator with 24 operations.
 
 2.Encoder
 
