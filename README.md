@@ -6,8 +6,8 @@ This program has 3 functions which are calculator, encoder and decoder.
 
 2.Encoder
 
--It takes a message from the user, converts each letter of the message to numbers according to a reference list which are (1)ASCII and (2)Phone Button 
-and applies calculator operations chosen by the users to all numbers. 
+-It takes a message from the user and then converts each letter of the message to numbers according to a reference list which are (1)ASCII and (2)Phone Button 
+and applies calculator operations chosen by the user to all numbers. 
 
 -Reference list number, operation number(s) and a special number form the key respectively.
 
