@@ -18,4 +18,5 @@ Key example; 110561236 > 1(reference) - 10 - 5 - 6 - 1 - 2(operation numbers) - 
 
 -It takes an encoded message(numbers) and its key to give the real message(letters).
 
+
 Notes: Required Windows!
